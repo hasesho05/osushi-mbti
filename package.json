@@ -1,0 +1,52 @@
+{
+  "name": "flowerproposal-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.9",
+    "@types/node": "18.14.0",
+    "@types/nprogress": "^0.2.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "chart.js": "^4.3.0",
+    "dayjs": "^1.11.9",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "firebase": "^9.23.0",
+    "framer-motion": "^10.0.1",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^118.0.0",
+    "he": "^1.2.0",
+    "html-react-parser": "^4.0.0",
+    "microcms-js-sdk": "^2.5.0",
+    "next": "13.1.6",
+    "next-seo": "^6.1.0",
+    "next-share": "^0.23.0",
+    "nprogress": "^0.2.0",
+    "openai": "^3.3.0",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.1",
+    "react-image-file-resizer": "^0.4.8",
+    "react-transition-group": "^4.4.5",
+    "smoothscroll-polyfill": "^0.4.4",
+    "typescript": "4.9.5",
+    "use-interval": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/google-spreadsheet": "^3.3.2",
+    "@types/he": "^1.2.0",
+    "@types/smoothscroll-polyfill": "^0.3.1"
+  }
+}
